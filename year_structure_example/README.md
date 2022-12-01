@@ -1,11 +1,11 @@
-# Year 2022
+# Year 20XX 
 <!--
 Done:  :white_check_mark:
 !Done: :white_large_square:
 -->
 | Days | :2nd_place_medal: | :1st_place_medal: |
 |:---:|---|---|
-| 01 | :white_check_mark:   | :white_check_mark:   |
+| 01 | :white_large_square: | :white_large_square: |
 | 02 | :white_large_square: | :white_large_square: |
 | 03 | :white_large_square: | :white_large_square: |
 | 04 | :white_large_square: | :white_large_square: |
