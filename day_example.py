@@ -1,17 +1,6 @@
-day, year, part = (6, 2022, "a")
 
 def solve(input):
-    l = input.split("\n")[0]
-    i=0
-    n=4
-    while i+3<len(l):
-        start = set()
-        for x in range(n):
-            start.add(l[i+x])
-        if len(list(start)) == n:
-            break
-        i+=1
-    return i+n
+    return 0
 
 import aocd
 def main():
